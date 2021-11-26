@@ -1,5 +1,7 @@
 # Photo Stream
 
+https://github.com/smidm/photo-stream
+
 A theme to showcase your photo albums, powered by [Hugo](https://gohugo.io).
 
 **A live demo is available [at hugo-photo-stream.netlify.com](https://hugo-photo-stream.netlify.com/).**
